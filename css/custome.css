@@ -83,7 +83,7 @@ p{
 }
 .sticky-bar .logo{
     height: 70px;
-    width: 20%;
+    width: auto;
 }
 .navbar{
     padding: 0px;
