@@ -1,0 +1,244 @@
+/*--------------------------------------------------------------
+15. Media queries
+--------------------------------------------------------------*/
+@media only screen and (min-device-width: 1400px) and (max-device-width: 1600px){ 
+   
+
+}
+@media only screen and (min-width : 1600px) {
+
+}
+@media only screen and (max-width: 1400px) {
+	p, .theme-btn, .navbar-light .navbar-nav .nav-link{
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.ft-16, .blue-line-caption{
+	    font-size: 14px;
+	}
+	.ft-20{
+	    font-size: 18px;
+	}
+	.navbar-expand-xl .navbar-nav .nav-link {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    .nav-link-btn{
+        margin-left: 40px;
+    }
+	.hero-title {
+    	font-size: 55px;
+	    line-height: 55px;
+	}
+	.title {
+	    font-size: 45px;
+	    line-height: 45px;
+    }
+    .stream-box-video {
+	    height: 240px;
+    }
+    .step-box-profile {
+	    margin-top: -35px;
+	    margin-right: 5px;
+	    max-width: 140px;
+	}
+	.step-img-bg-div {
+    	height: 500px;
+    }
+    .get-in-touch-box {
+    	padding: 50px 40px;
+    }
+    .support-sec-div{
+	    padding-bottom: 480px;
+	}
+	.side-img1{
+	    left: -60px;
+	}
+	.side-img2{
+	    right: -60px;
+	}
+
+}
+@media only screen and (max-width: 1200px) {
+	.sticky-social, .side-img{
+		display: none!important;
+	}
+	.header {
+	    padding: 20px 0px;
+	}
+	.logo{
+		height: 70px;
+		width: auto;
+	}
+	.navbar-nav {
+    	padding: 10px 20px 20px;
+	}
+	.navbar-collapse {
+		background-color: #6755c1;
+	    position: absolute;
+	    width: 100%;
+	    top: 70px;
+	    left: 0px;
+	    right: 0px;
+	}
+	.navbar-expand-xl .navbar-nav .nav-item{
+		width: 100%;
+	}
+	.navbar-expand-xl .navbar-nav .nav-link {
+	    padding-right: 0px;
+	    padding-left: 0px;
+	}
+	.nav-link-btn{
+		display: inline-block;
+        margin-top: 10px;
+        margin-left: 0px;
+     	padding-right: 25px!important;
+	    padding-left: 25px!important;
+    }
+	.hero-title {
+    	font-size: 50px;
+	    line-height: 50px;
+	    margin-bottom: 20px;
+	}
+	.title {
+	    font-size: 40px;
+	    line-height: 40px;
+	    margin-bottom: 20px;
+    }
+    .support-sec-div{
+	    padding-bottom: 350px;
+	}
+
+}
+
+@media only screen and (max-width: 991px) {
+	.hero-sec {
+    	min-height: initial;
+    	padding: 150px 0px 0px;
+    }
+	.sec-pad-big {
+    	padding: 120px 0px;
+	}
+ 	.arrow-icon{
+ 		display: none;
+ 	}
+ 	.step-box-div{
+	    margin-bottom: 40px;
+    }
+    .step-box-div.active::before {
+    	bottom: -45px;
+	}
+    .get-in-touch-box {
+    	display: block;
+    }
+    .links-li p {
+    	margin-right: 35px;
+    }
+    .socials a {
+    	margin-right: 25px;
+    }
+    .video-box {
+    	padding: 13px 25px;
+    }
+    .step-img-bg-div {
+    	height: 420px;
+	}
+
+}
+@media only screen and (max-width: 800px) {
+
+}
+@media only screen and (max-width: 767px) {
+	.sec-pad-big {
+    	padding: 80px 0px;
+	}
+ 	.hero-title {
+    	font-size: 45px;
+	    line-height: 50px;
+	    margin-bottom: 20px;
+	}
+	.title {
+	    font-size: 35px;
+	    line-height: 35px;
+	    margin-bottom: 20px;
+    }
+    .icon-relative img{
+    	width: 100%;
+    	max-width: 80px;
+    	height: auto;
+    }
+    .play-btn-line1 {
+	  	width: 120px;
+	  	height: 120px;
+	}
+	.play-btn-line2 {
+	  	width: 90px;
+	  	height: 90px;
+	}
+    .step-img-bg-div {
+    	height: 350px;
+	}
+	.support-sec-div{
+	    padding-bottom: 200px;
+	}
+
+}
+@media (min-width: 992px){
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+@media only screen and (max-width: 640px) {
+  
+
+}
+    
+
+@media only screen and (max-width: 575px) {
+	.step-img-bg-div {
+    	height: 300px;
+	}
+	.theme-btn {
+    	padding: 12px 30px;
+	}
+	.get-in-touch-box {
+    	padding: 30px 20px;
+	}
+	.footer-margin {
+    	margin-bottom: 30px;
+	}
+	.links-li p {
+    	margin-right: 15px;
+	}
+	.socials a {
+    	margin-right: 15px;
+    }
+    .support-sec-div{
+	    padding-bottom: 80px;
+	}
+}
+@media (min-width: 576px){
+
+}
+
+@media only screen and (max-width: 480px) {
+  
+}
+@media only screen and (max-width: 400px) {
+
+}
+@media screen and (max-width: 375px){
+
+}
+@media screen and (max-width: 321px){
+
+}
+
+
+
+
+
+
+

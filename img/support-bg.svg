@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="267" viewBox="0 0 1320 267">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.071"/>
+    </linearGradient>
+  </defs>
+  <g id="bg" transform="translate(-229 -266)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="1320" height="267" rx="5" transform="translate(229 266)" fill="#352198" opacity="0.91"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="68" cy="68" r="68" transform="translate(253 291)" opacity="0.44" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="44.963" cy="44.963" r="44.963" transform="matrix(-0.259, 0.966, -0.966, -0.259, 1050.779, 294.992)" opacity="0.44" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="20.633" cy="20.633" r="20.633" transform="translate(1178.422 469.12) rotate(30)" opacity="0.44" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="53.133" cy="53.133" r="53.133" transform="translate(1423.13 266) rotate(30)" opacity="0.44" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="57.802" cy="57.802" r="57.802" transform="translate(678.212 368) rotate(30)" opacity="0.44" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
